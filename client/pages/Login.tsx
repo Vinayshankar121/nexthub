@@ -101,12 +101,6 @@ export default function Login() {
                 Sign up here
               </Link>
             </div>
-
-            <div className="mt-6 p-3 bg-blue-50 rounded text-sm text-blue-700">
-              <p className="font-medium mb-2">Demo Credentials:</p>
-              <p>Email: demo@example.com</p>
-              <p>Password: any password</p>
-            </div>
           </CardContent>
         </Card>
       </div>

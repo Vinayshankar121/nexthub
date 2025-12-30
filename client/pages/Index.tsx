@@ -30,7 +30,7 @@ export default function Index() {
             <Link to="/login">
               <Button
                 variant="outline"
-                className="border-slate-600 text-white hover:bg-slate-800"
+                className="border-slate-600 text-white bg-transparent hover:bg-slate-800"
               >
                 Sign In
               </Button>
@@ -64,7 +64,7 @@ export default function Index() {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-slate-400 text-white hover:bg-slate-800"
+                className="border-slate-400 text-white bg-transparent hover:bg-slate-800"
               >
                 Sign In
               </Button>
